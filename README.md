@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tomas
+👋 Hi, I’m Tomas
 ===============================
 I currently work onsite in Germany and Switzerland on web development, automatization and cross web aplications.
 - got a few projects in US remotely aswell :)
