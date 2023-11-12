@@ -14,6 +14,6 @@ Other projects:
 Always learning, currently on:
 CS50
 -------------------------------
-🌍 My company is based in Bratislava, Slovakia (not Slovenia)
-🚀 Languages/ frameworks-  C, Javascript, React JS, Redux, Python, SQL, CSS
+- 🌍 My company is based in Bratislava, Slovakia (not Slovenia)
+- 🚀 Languages/ frameworks-  C, Javascript, React JS, Redux, Python, SQL, CSS
 
