@@ -12,7 +12,7 @@ Other projects:
 - Music composing
 
 Always learning, currently on:
-CS50
+[CS50](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science)
 -------------------------------
 - 🌍 My company is based in Bratislava, Slovakia (not Slovenia)
 - 🚀 Languages/ frameworks-  C, Javascript, React JS, Redux, Python, SQL, CSS
