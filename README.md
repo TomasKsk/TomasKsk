@@ -16,3 +16,4 @@ Git · esbuild · JSDoc / @ts-check · modular JavaScript architecture
 
 ### What I build ###  
 My commercial work has focused mainly on internal industrial applications, including:  
+* Field-service & troubleshooting systems — data-driven applications that guide technicians through maintenance and diagnostic procedures.
