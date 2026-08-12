@@ -14,6 +14,7 @@ REST APIs · Python · Flask · Node.js · MySQL · SQLite
 **Engineering & Tooling**  
 Git · esbuild · JSDoc / @ts-check · modular JavaScript architecture  
 
+-------------
 ### What I build ###  
 My commercial work has focused mainly on internal industrial applications, including:  
 * Field-service & troubleshooting systems — data-driven applications that guide technicians through maintenance and diagnostic procedures.
@@ -22,6 +23,7 @@ My commercial work has focused mainly on internal industrial applications, inclu
 
 Most commercial projects are private/internal systems, so their source code cannot be published publicly.  
 
+-------------
 ### How I approach software
 I don't start with a framework.
 
@@ -31,6 +33,7 @@ I try to understand the users, the workflow, the constraints and where mistakes 
 
 Depending on the requirements, that might mean React and a REST API — or a lightweight modular JavaScript application when bundle size and unreliable connectivity matter more.  
 
+-------------
 ### Currently improving
 
 I'm currently strengthening my knowledge in:
@@ -42,6 +45,7 @@ I'm currently strengthening my knowledge in:
 * Zustand
 * CI/CD workflows
 
+-------------
 ### Current focus
 
 I'm particularly interested in frontend and full-stack roles where I can combine software engineering with process analysis, ownership and practical problem solving.
