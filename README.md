@@ -1,19 +1,9 @@
-👋 Hi, I’m Tomas
-===============================
-I currently work onsite in Germany and Switzerland on web development, automatization and cross web aplications.
-- got a few projects in US remotely aswell :)
+# Hi, I'm Tomáš Krže
 
-Other projects:
-- Graphic and 3d design
-- Distribution/ sales management
-- Laser effects, programming, Light art
-- Algorythmic trading
-- Translations
-- Music composing
+## Software Developer focused on workflow automation, industrial web applications and practical problem solving.
 
-Always learning, currently on:
-[CS50](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science)
--------------------------------
-- 🌍 My company is based in Bratislava, Slovakia (not Slovenia)
-- 🚀 Languages/ frameworks-  C, Javascript, React JS, Redux, Python, SQL, CSS
+### I enjoy taking complex real-world processes, understanding where time and information are being lost, and turning them into simple software systems that people can actually use.
+
+
+## What I work with
 
